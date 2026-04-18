@@ -13,7 +13,7 @@
 
 ## 📖 About
 
-This is a **birthday surprise website** made to celebrate my best friend **Wakilur Rahman Fahim** (aka *Bhumikompo 😆*, *Mota 😂*, *Faikke 😎*).  
+This is a **birthday surprise website** made to celebrate my best friend **Jikre jahan Diba** (My *Cutest bestie😄*, *kuchu puchu 😂*, *Danger 😎*).  
 It blends deep emotional notes with hilarious inside jokes – exactly how real friendships feel.
 
 **Features at a glance:**  
@@ -42,14 +42,14 @@ It blends deep emotional notes with hilarious inside jokes – exactly how real 
 
 ---
 
-## 👤 About Fahim
+## 👤 About Diba
 
-**Wakilur Rahman Fahim** – my harbor in storms, my loudest cheerleader, and the one who understands my silence.  
+**Jikre Jahan Diba** – my harbor in storms, my loudest cheerleader, and the one who understands my silence.  
 A friend who turns ordinary nights into legendary stories (especially when mangoes are involved 😅).  
 This website is a small tribute to his kindness, loyalty, and the countless laughs we’ve shared.
 
 **Nicknames used creatively:**  
-`Bhumikompo 😆` · `Mota 😂` · `Faikke 😎`
+`bestie😄` · `kuchu puchu😂` · `danger 😎`
 
 ---
 
